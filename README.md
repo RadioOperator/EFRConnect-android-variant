@@ -6,13 +6,13 @@ Please report any problems/comments, thanks.
 
 
 ## Big defferents on Browser page:
-![alt text](https://github.com/RadioOperator/EFRConnect-android-variant/Screenshot-1.jpg)
+![alt text](https://github.com/RadioOperator/EFRConnect-android-variant/blob/main/Screenshot-1.jpg)
 
 ## Services Page, display MAC address and added DFU button:
-![alt text](https://github.com/RadioOperator/EFRConnect-android-variant/Screenshot-2.jpg)
+![alt text](https://github.com/RadioOperator/EFRConnect-android-variant/blob/main/Screenshot-2.jpg)
 
 ## DFU dialog, auto back to Browser page, no need to press OK:
-![alt text](https://github.com/RadioOperator/EFRConnect-android-variant/Screenshot-3.jpg)
+![alt text](https://github.com/RadioOperator/EFRConnect-android-variant/blob/main/Screenshot-3.jpg)
 
 
 =======================================================================
