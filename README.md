@@ -9,15 +9,19 @@ Please report any problems/comments, thanks.
  - Startup into Browser page immediately.
  - RSSI sort mode only.
  - Show all ADV raw data in front, easy to find your interestings.
+ - Spinning the scan icon for fun.
+ - 
 ![alt text](https://github.com/RadioOperator/EFRConnect-android-variant/blob/main/Screenshot-1.jpg)
 
 ## Services Page, display MAC address and added DFU button:
  - MAC address important than the device name.
  - Not hind the OTA-DFU button in the deeper menu
+ - 
 ![alt text](https://github.com/RadioOperator/EFRConnect-android-variant/blob/main/Screenshot-2.jpg)
 
 ## DFU dialog, auto back to Browser page, no need to press OK:
  - Speeding and easy to do the DFU job.
+ - 
 ![alt text](https://github.com/RadioOperator/EFRConnect-android-variant/blob/main/Screenshot-3.jpg)
 
 
