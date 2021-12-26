@@ -1,4 +1,7 @@
-# EFR Connect for Android,  a variant version!!!
+# EFR Connect for Android,  a variant version!
+
+2021-12-25, new feature added:
+DFU dialog, can keep the last file selection for next device.
 
 At first, modify the original source code for my personal uses. Now, share it here.
 
@@ -21,6 +24,7 @@ Please report any problems/comments, thanks.
 
 ## DFU dialog, auto back to Browser page, no need to press OK:
  - Speeding and easy to do the DFU job.
+ - keep the last file selection for next device.
  - 
 ![alt text](https://github.com/RadioOperator/EFRConnect-android-variant/blob/main/Screenshot-3.jpg)
 
