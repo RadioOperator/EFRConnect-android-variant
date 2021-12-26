@@ -1,7 +1,7 @@
 # EFR Connect for Android,  a variant version!
 
 2021-12-25, new feature added:
-DFU dialog, can keep the last file selection for next device.
+<font color="red">DFU dialog, can keep the last file selection for next device.</font>
 
 At first, modify the original source code for my personal uses. Now, share it here.
 
