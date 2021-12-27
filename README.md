@@ -1,14 +1,16 @@
 # EFR Connect for Android,  a variant version!
 
-2021-12-25, new feature added:
-<font color="red">DFU dialog, can keep the last file selection for next device.</font>
+2021-12-28, new feature added:  
+1. DFU button added in BLE Browser page, speeding DFU process.  
+2. DFU dialog, can keep the last App file selection for next device.  
 
 At first, modify the original source code for my personal uses. Now, share it here.
 
 Please report any problems/comments, thanks.
 
 
-## Big defferents on Browser page:
+## Big defferents on Browser page:  
+ - Add a DFU button, same as Connection Button if the device no DFU function. 
  - Startup into Browser page immediately.
  - RSSI sort mode only.
  - Show all ADV raw data in front, easy to find your interestings.
