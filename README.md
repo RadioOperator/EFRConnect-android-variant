@@ -1,6 +1,7 @@
 # EFR Connect for Android,  a variant version!
 
-2022-06-14， upgrade to v2.5.0 and minor corrections.
+2022-12-16, add v2.5.2-variant file, a little bit changes only.
+2022-06-14，upgrade to v2.5.0 and minor corrections.
 
 2021-12-28, new feature added:  
 1. DFU button added in BLE Browser page, speeding DFU process.  
