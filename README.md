@@ -21,7 +21,7 @@ Please report any problems/comments, thanks.
  - 
  
  ## v2.8.0 new face:
- ![alt text](https://github.com/RadioOperator/EFRConnect-android-variant/blob/main/Screenshot-1.jpg)
+ ![alt text](https://github.com/RadioOperator/EFRConnect-android-variant/blob/main/Screenshot-4.jpg)
  
  ## v2.5.2 and before:
 ![alt text](https://github.com/RadioOperator/EFRConnect-android-variant/blob/main/Screenshot-1.jpg)
