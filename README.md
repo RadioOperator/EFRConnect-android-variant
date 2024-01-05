@@ -1,5 +1,6 @@
 # EFR Connect for Android,  a variant version!
 
+2024-01-05, add OTA button, improved BACK button function in RSSI / CONN pages.  
 2024-01-01, add v2.8.0-variant app, new version UI. removed "Matter Domo" function.  
 2022-12-16, add v2.5.2-variant file, a little bit changes only.  
 2022-06-14，upgrade to v2.5.0 and minor corrections.  
@@ -21,7 +22,7 @@ Please report any problems/comments, thanks.
  - 
  
  ## v2.8.0 new face:
- ![alt text](https://github.com/RadioOperator/EFRConnect-android-variant/blob/main/Screenshot-1.jpg)
+ ![alt text](https://github.com/RadioOperator/EFRConnect-android-variant/blob/main/Screenshot-4.jpg)
  
  ## v2.5.2 and before:
 ![alt text](https://github.com/RadioOperator/EFRConnect-android-variant/blob/main/Screenshot-1.jpg)
